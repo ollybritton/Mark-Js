@@ -1,7 +1,7 @@
 # Mark-Js
 Mark-Js is a Markov Bot which is a form of chatbot which takes text and outputs text which is different, but seemingly related. This has two function, namely `map` & `create`, where the first generates a Markov "map" from a piece of text, and the second uses that the given "map" to create new text. I also have a [Python version of this](github.com/ollybritton/Mark-Py), named `Mark-Py`, which is similar but is designed to generate larger amounts of text for more esoteric purposes.
 
-## Use
+## Use
 
 As I briefly mentioned above, the script contains two functions actually related to text parsing and creation (these are also described in the code itself).
 
