@@ -1,0 +1,11 @@
+{
+  "name": "mark",
+  "version": "1.0.0",
+  "description": "Mark is a general Markov Bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olly Britton",
+  "license": "MIT"
+}
